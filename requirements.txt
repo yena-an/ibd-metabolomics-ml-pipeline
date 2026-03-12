@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+xgboost
+umap-learn
+shap
+matplotlib
+seaborn
+jupyter
+notebook
